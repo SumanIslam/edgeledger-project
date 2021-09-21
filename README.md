@@ -1,5 +1,5 @@
-# edgeledger-project
-this is a simple project created using css flexbox
+## edgeledger-project
+This is a simple project created using html and css flexbox
 
-#website link
-https://vigilant-kilby-0aeebc.netlify.com
+## website link
+[Live preview Link](https://vigilant-kilby-0aeebc.netlify.com)
